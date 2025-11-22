@@ -65,6 +65,7 @@ AI as a co-worker. SaaS as infrastructure. Finance as logic.
 ## 📬 Contact
 
 I’m open to collaboration on:
+
 • AI agents for finance & operations  
 • SMB process automation  
 • Research & data-driven decision tools  
