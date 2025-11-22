@@ -71,7 +71,7 @@ I’m open to collaboration on:
 • Research & data-driven decision tools  
 
 **✉ Email:** *untungkasirin@gmail.com*  
-**💼 LinkedIn:** *[(your link)](https://www.linkedin.com/in/untungkasirin)*  
+**💼 LinkedIn:** *[Untung Kasirin](https://www.linkedin.com/in/untungkasirin)*  
 
 ---
 
