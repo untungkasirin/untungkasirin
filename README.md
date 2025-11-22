@@ -70,8 +70,8 @@ I’m open to collaboration on:
 • SMB process automation  
 • Research & data-driven decision tools  
 
-**✉ Email:** *(your email)*  
-**💼 LinkedIn:** *(your link)*  
+**✉ Email:** *untungkasirin@gmail.com*  
+**💼 LinkedIn:** *[(your link)](https://www.linkedin.com/in/untungkasirin)*  
 
 ---
 
