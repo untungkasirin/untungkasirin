@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Untung  
 **Finance Strategist × AI Builder × SaaS Architect**  
-I build **practical AI agents and SaaS tools** that solve real business problems — especially in **finance & operations**.
+I build **practical AI agents and SaaS tools** that solve real business problems, especially in **finance & operations**.
 
 ---
 
