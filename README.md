@@ -77,26 +77,7 @@ I’m open to collaboration on:
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=untungkasirin&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" 
-    alt="GitHub stats" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=untungkasirin&theme=transparent" 
-    alt="GitHub streak" 
-    height="160"
-  />
-</p>
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=untungkasirin&layout=compact&theme=transparent" 
-    alt="Top languages" 
-    height="160"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=untungkasirin&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
 
 > _“Code solves problems. AI improves decisions.  
 > My work sits exactly between those two.”_
