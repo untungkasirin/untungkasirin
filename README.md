@@ -1,83 +1,142 @@
-# 👋 Hi, I'm Untung  
-**Finance Strategist × AI Builder × SaaS Architect**  
-I build **practical AI agents and SaaS tools** that solve real business problems, especially in **finance & operations**.
+# 👋 Hi, I'm Untung Kasirin
+
+**Finance Professional × AI Builder × Agentic Company Founder**
+
+For more than 14 years, I worked in Accounting & Finance, helping businesses understand costs, profitability, and cash flow.
+
+Today, I'm building **VISIA**, an experiment in creating an **Agentic Company** — where humans, systems, and AI agents collaborate to run business operations more effectively.
+
+My mission is simple:
+
+> Reduce repetitive work. Increase decision quality.
 
 ---
 
-## ⚙️ What I Build
+# 🚀 What I'm Building
 
-I focus on applying AI to **real processes**, not just demos:
+## VISIA Ecosystem
 
-| Domain | AI Agent Use Case |
-|-------|--------------------|
-| Finance Ops | Bank reconciliation automation (Excel/CSV) |
-| Cashflow | Monitoring, forecasting, account allocation |
-| Accounting | Cost-per-product (HPP) calculators for manufacturing/F&B |
-| Decision Support | Financial analysis & ratio exploration |
-| ERP Modules | Simple inventory & process tracking |
-| Landing Pages | Generate layout & copy automatically |
-| Marketing | Script generation for content & campaigns |
-| Research | Structure thinking & literature reviews |
+A business operating system built around five core domains:
 
-**Goal:**  
-AI as a co-worker. SaaS as infrastructure. Finance as logic.
+| Domain   | Product   |
+| -------- | --------- |
+| Research | Potensio  |
+| Product  | Meluncur  |
+| Sales    | Meroket   |
+| Profit   | Kalkul    |
+| Cash     | Cashboard |
 
----
+Framework:
 
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-MVP-red?logo=streamlit)
-![FastAPI](https://img.shields.io/badge/FastAPI-backend-green?logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-containerization-blue?logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-336791?logo=postgresql)
-![Next.js](https://img.shields.io/badge/Next.js-in%20progress-black?logo=next.js)
+**Research → Product → Sales → Profit → Cash**
 
 ---
 
-## 🚀 Selected AI Agents (in development)
+## Pandawa AI
 
-> Names intentionally generic — functions matter more than branding.
+An internal multi-agent system designed to support business operations.
 
-| Repository | Purpose |
-|------------|---------|
-| `ai-bank-recon` | Automate matching between bank statements & book records |
-| `ai-hpp-generator` | Calculate cost per portion dynamically for F&B/MFG |
-| `ai-fin-analysis` | Explore financial statements quickly & interactively |
-| `ai-landing-gen` | Generate landing page layout, copy & UX in one flow |
-| `ai-script-gen` | Turn raw ideas into marketing scripts & briefs |
-| `ai-cash-agent` | Monitor balances & cash allocation with rules |
-| `ai-research-assist` | Assist with structured thinking & literature reviews |
+| Agent  | Responsibility         |
+| ------ | ---------------------- |
+| Kresna | Orchestration          |
+| Yudhis | Research & Insights    |
+| Bima   | Engineering            |
+| Juna   | Growth & Communication |
+| Nakula | Operations             |
+| Sadewa | Finance & Cash Flow    |
 
----
+The goal is not replacing people.
 
-## 🧠 Design Principle
-
-
-- Start with MVP (Streamlit)
-- Convert into FastAPI backend
-- Containerize with Docker
-- Standardize config & logic → modular stack  
-- Scale horizontally as micro SaaS modules
+The goal is helping people focus on higher-value work.
 
 ---
 
-## 📬 Contact
+# 🧠 Areas of Interest
 
-I’m open to collaboration on:
-
-• AI agents for finance & operations  
-• SMB process automation  
-• Research & data-driven decision tools  
-
-**✉ Email:** *untungkasirin@gmail.com*  
-**💼 LinkedIn:** *[Untung Kasirin](https://www.linkedin.com/in/untungkasirin)*  
+* Agentic AI
+* AI for Business
+* Business Operating Systems
+* Finance Automation
+* Cash Flow Management
+* SMB Digital Transformation
+* Workflow Automation
+* Vibe Coding
+* Knowledge Systems
 
 ---
 
-## 📊 GitHub Stats
+# ⚙️ Current Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=untungkasirin&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
+### Infrastructure
 
-> _“Code solves problems. AI improves decisions.  
-> My work sits exactly between those two.”_
+* Coolify
+* Docker
+* VPS
+* Cloudflare
+
+### Automation
+
+* n8n
+* WAHA
+* APIs
+* AI Workflows
+
+### Development
+
+* Go
+* TypeScript
+* React
+* Astro
+* PocketBase
+* PostgreSQL
+
+### AI
+
+* OpenAI
+* Gemini
+* Claude
+* DeepSeek
+* Groq
+
+---
+
+# 📈 Current Focus
+
+Building practical systems where:
+
+* AI performs operational tasks
+* Humans make strategic decisions
+* Data becomes actionable insight
+* Businesses scale through systems, not complexity
+
+---
+
+# 📚 Writing About
+
+On my blog and public projects, I regularly share:
+
+* Accounting & Finance
+* Cash Flow
+* AI for Business
+* Agentic AI
+* Business Systems
+* Product Building
+* Automation Experiments
+
+---
+
+# 📬 Connect
+
+📧 [untungkasirin@gmail.com](mailto:untungkasirin@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/untungkasirin
+
+🌐 Website:
+https://untungkasirin.com
+
+---
+
+> "Businesses survive because of cash.
+>
+> Everything else is optimization."
