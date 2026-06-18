@@ -29,6 +29,7 @@ Research → Product → Sales → Profit → Cash
 | Platform | **Pandawa** | Multi-agent AI orchestration system |
 | Content | **Jago Excel** | Excel education (100K+ followers) |
 | Content | **Jago Cash Flow** | Cash flow management book & course |
+| Community | **KasMasjid** | Free mosque financial management app |
 
 ### Services
 
@@ -54,8 +55,6 @@ Research → Product → Sales → Profit → Cash
 | **Nakula** | Profit | Revenue tracking & margin |
 | **Sadewa** | Cash | Cash flow & anomaly detection |
 
-Currently submitting to **Nous Research × NVIDIA × Stripe Hackathon** (June 2025).
-
 ---
 
 ## ⚙️ Stack
@@ -72,7 +71,6 @@ Currently submitting to **Nous Research × NVIDIA × Stripe Hackathon** (June 20
 ## 📈 Current Focus
 
 - **5x income in 12 months** via SaaS MRR + recurring services
-- Pandawa Hackathon submission (Nous × NVIDIA × Stripe)
 - AI-native business operations for Indonesian businesses
 - Bridging finance expertise with AI capabilities
 
@@ -89,7 +87,6 @@ Finance · Cash Flow · AI for Business · Product Building · Automation · Acc
 📧 [untungkasirin@gmail.com](mailto:untungkasirin@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/untungkasirin)
 🌐 [untungkasirin.com](https://untungkasirin.com)
-🕌 [KasMasjid](https://kasmasjid.com)
 
 ---
 
