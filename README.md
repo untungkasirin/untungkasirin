@@ -4,7 +4,7 @@
 
 I spent 14+ years in Accounting & Finance, helping businesses understand costs, profitability, and cash flow.
 
-Now I'm building **VISIA** — an AI-native business operating system for Indonesian businesses. The mission: replace repetitive work with intelligent systems, so humans can focus on decisions that matter.
+Now I'm building **VISIA**: an AI-native business operating system for Indonesian businesses. The mission: replace repetitive work with intelligent systems, so humans can focus on decisions that matter.
 
 ---
 
@@ -21,7 +21,7 @@ Research → Product → Sales → Profit → Cash
 | Domain | Product | Description |
 |--------|---------|-------------|
 | Research | **Potensio** | Market research & competitive intelligence |
-| Product | **Meluncur** | SaaS launcher — idea to live in minutes |
+| Product | **Meluncur** | SaaS launcher: idea to live in minutes |
 | Product | **Operasio** | Lightweight ERP for small business |
 | Product | **Kalkul** | POS & inventory for F&B businesses |
 | Sales | **Meroket** | AI sales agent & lead management |
@@ -42,7 +42,7 @@ Research → Product → Sales → Profit → Cash
 
 ---
 
-## 🧠 Pandawa — AI Orchestration
+## 🧠 Pandawa: AI Orchestration
 
 6 AI agents working together to run business operations:
 
